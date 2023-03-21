@@ -23,11 +23,17 @@ The courses enlisted in this specialization are as follows:
  Applied Data Science Capstone 
 
 Data science project ideas
-Predicting customer churn
-Fraud detection
-Recommender systems
-Sentiment analysis
-Image recognition
-Text classification
-Time series forecasting:
 
+Predicting customer churn
+
+Fraud detection
+
+Recommender systems
+
+Sentiment analysis
+
+Image recognition
+
+Text classification
+
+Time series forecasting
