@@ -2,38 +2,38 @@
 There are 10 Courses in this Professional Certificate
 The courses enlisted in this specialization are as follows:
 
- What is Data Science ?
+ 1.What is Data Science ?
 
- Tools for Data Science
+ 2.Tools for Data Science
 
- Data Science Methodology 
+ 3.Data Science Methodology 
 
- Python for Data Science, AI & Development 
+ 4.Python for Data Science, AI & Development 
 
- Python Project for Data Science
+ 5.Python Project for Data Science
 
- Databases and SQL for Data Science with Python 
+ 6.Databases and SQL for Data Science with Python 
 
- Data Analysis with Python
+ 7.Data Analysis with Python
 
- Data Visualization with Python 
+ 8.Data Visualization with Python 
 
- Machine Learning with Python 
+ 9.Machine Learning with Python 
 
- Applied Data Science Capstone 
+ 10.Applied Data Science Capstone 
 
 Data science project ideas
 
-Predicting customer churn
+1.Predicting customer churn
 
-Fraud detection
+2.Fraud detection
 
-Recommender systems
+3.Recommender systems
 
-Sentiment analysis
+4.Sentiment analysis
 
-Image recognition
+5.Image recognition
 
-Text classification
+6.Text classification
 
-Time series forecasting
+7.Time series forecasting
